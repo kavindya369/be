@@ -1,0 +1,114 @@
+2024-12-12 04:40:53 [main] INFO  com.example.be.BeApplication - Starting BeApplication using Java 17.0.11 with PID 11460 (C:\Users\Administrator\IdeaProjects\be\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\be)
+2024-12-12 04:40:53 [main] INFO  com.example.be.BeApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-12 04:40:54 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-12 04:40:54 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:40:54 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-12 04:40:54 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12 04:40:54 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-12 04:40:54 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 824 ms
+2024-12-12 04:40:54 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:40:54 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-12 04:40:54 [main] INFO  com.example.be.BeApplication - Started BeApplication in 1.636 seconds (process running for 2.207)
+2024-12-12 04:41:11 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12 04:41:11 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-12 04:41:14 [main] INFO  com.example.be.BeApplication - Starting BeApplication using Java 17.0.11 with PID 11620 (C:\Users\Administrator\IdeaProjects\be\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\be)
+2024-12-12 04:41:14 [main] INFO  com.example.be.BeApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-12 04:41:15 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-12 04:41:15 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:41:15 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-12 04:41:15 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12 04:41:15 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-12 04:41:15 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1070 ms
+2024-12-12 04:41:15 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:41:15 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-12 04:41:15 [main] INFO  com.example.be.BeApplication - Started BeApplication in 2.04 seconds (process running for 2.722)
+2024-12-12 04:41:15 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-12 04:41:15 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-12 04:41:15 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-12-12 04:42:34 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12 04:42:34 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-12 04:45:11 [main] INFO  com.example.be.BeApplication - Starting BeApplication using Java 17.0.11 with PID 10300 (C:\Users\Administrator\IdeaProjects\be\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\be)
+2024-12-12 04:45:11 [main] INFO  com.example.be.BeApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-12 04:45:12 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-12 04:45:12 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:45:12 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-12 04:45:12 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12 04:45:12 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-12 04:45:12 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 816 ms
+2024-12-12 04:45:12 [main] INFO  com.example.be.service.TicketPool - TicketPool initialized with max capacity of 1000 tickets.
+2024-12-12 04:45:12 [main] INFO  com.example.be.service.LogService - LogService initialized with default logs.
+2024-12-12 04:45:12 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:45:12 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-12 04:45:12 [main] INFO  com.example.be.BeApplication - Started BeApplication in 1.607 seconds (process running for 2.157)
+2024-12-12 04:45:14 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-12 04:45:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-12 04:45:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-12-12 04:45:14 [http-nio-8080-exec-1] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:46:14 [http-nio-8080-exec-5] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:47:14 [http-nio-8080-exec-9] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:48:02 [http-nio-8080-exec-2] INFO  com.example.be.service.LogService - Fetching logs: [Vendor added 10 tickets, Customer purchased 5 tickets, System error: Ticket service failed]
+2024-12-12 04:48:14 [http-nio-8080-exec-3] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:49:14 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:14 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:41 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:42 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:43 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:45 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:46 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:47 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:48 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:49 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:50 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:51 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:52 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:53 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:54 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:55 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:56 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:57 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:58 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:50:59 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:00 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:01 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:02 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:03 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:04 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:05 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:06 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:07 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:08 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:09 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:10 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:11 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:12 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:13 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:14 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:16 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:18 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:20 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:22 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:24 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:26 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:28 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:29 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:31 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:32 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:34 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:36 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:37 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:39 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:41 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:43 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:45 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:47 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:49 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:50 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:52 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:54 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:56 [http-nio-8080-exec-10] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:51:58 [http-nio-8080-exec-2] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:52:00 [http-nio-8080-exec-4] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:52:02 [http-nio-8080-exec-6] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:52:04 [http-nio-8080-exec-8] INFO  com.example.be.service.TicketPool - Current ticket count: 0.
+2024-12-12 04:52:04 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12 04:52:04 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete

@@ -1,0 +1,18 @@
+2024-12-12 04:58:50 [main] INFO  com.example.be.BeApplication - Starting BeApplication using Java 17.0.11 with PID 7008 (C:\Users\Administrator\IdeaProjects\be\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\be)
+2024-12-12 04:58:50 [main] INFO  com.example.be.BeApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-12 04:58:51 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-12 04:58:51 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:58:51 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-12 04:58:51 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-12 04:58:51 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-12 04:58:51 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 893 ms
+2024-12-12 04:58:51 [main] INFO  com.example.be.service.TicketPool - TicketPool initialized with max capacity of 1000 tickets.
+2024-12-12 04:58:51 [main] INFO  com.example.be.service.LogService - LogService initialized with default logs.
+2024-12-12 04:58:52 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-12 04:58:52 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-12 04:58:52 [main] INFO  com.example.be.BeApplication - Started BeApplication in 1.715 seconds (process running for 2.25)
+2024-12-12 04:59:06 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-12 04:59:06 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-12 04:59:06 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-12-12 05:01:13 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-12 05:01:13 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
